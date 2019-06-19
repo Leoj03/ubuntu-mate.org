@@ -88,7 +88,7 @@ As for the wordmark, use the roundel logo only with the colour configurations ab
 
 # Which logo should I use?
 
-It has no different which logo you choose to use for your works. There isn't a _preferred_ version we like to see. Just select what you want so that the logo is well distinguishable. We recommend to use the white versions of the logos on darker background, and to use the coloured versions on lighter background.
+It makes no difference which logo you choose to use for your works. There isn't a _preferred_ version we like to see. Just select what you want so that the logo is well distinguishable. We recommend that you use the white versions of the logos on darker backgrounds and the coloured versions on lighter backgrounds.
 
 ---
 
@@ -113,7 +113,7 @@ The Circle of MATEs, when used on its own, must always have a clear area surroun
 
 # Incorrect use
 
-By following the guidelines on how to use them you will help to build a powerful and united identity for the Ubuntu MATE brand. This section shows examples of incorrect use.
+By following the guidelines on how to use this artwork you will help to build a powerful and united identity for the Ubuntu MATE brand. This section shows examples of incorrect use.
 
 You must not:
 
@@ -142,7 +142,7 @@ You must not:
 </div>
 <br>
 
-It has been made also a stacked version of the logo. Consistent use of the Ubuntu MATE logo is essential in creating a united brand identity. The master logo is supplied as artwork and should never be altered, distorted or re-created in any way.
+A stacked version of the logo has also been made. Consistent use of the Ubuntu MATE logo is essential in creating a united brand identity. The master logo is supplied as artwork and should never be altered, distorted or re-created in any way.
 
 The stacked Ubuntu MATE logo must always have a clear area surrounding it, free from any other element. To define this area, measure the height of the roundel and use a quarter of this measure to create the boundary of clear space around the logo.
 
